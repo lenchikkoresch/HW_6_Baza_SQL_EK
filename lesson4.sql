@@ -299,3 +299,4 @@ FROM media m
 LEFT JOIN media_types mt ON mt.id = m.media_type_id
 ORDER BY m.id;
 
+
